@@ -1,0 +1,32 @@
+{
+    "python.pythonPath": "/Users/luiscapella/opt/anaconda3/bin/python",
+    "workbench.colorTheme": "Predawn",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultKeybindings": true,
+    "workbench.settings.useSplitJSON": true,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.statusBar.visible": false,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 0,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "Source Code Pro",
+    "debug.console.fontFamily": "Source Code Pro",
+    "debug.console.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "600",
+    "editor.formatOnSaveMode": "file",
+    "editor.quickSuggestionsDelay": 100,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "editor.minimap.enabled": false,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true
+}
